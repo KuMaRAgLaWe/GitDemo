@@ -14,4 +14,9 @@ public class test {
 
 	}
 
+	@Test
+	public void DEF() {
+		System.out.println("Man and woman");
+	}
+
 }
