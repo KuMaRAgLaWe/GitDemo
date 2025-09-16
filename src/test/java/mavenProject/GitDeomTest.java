@@ -14,4 +14,9 @@ public class GitDeomTest {
 		System.out.println("Hey Man Whats App");
 	}
 
+	@Test
+	public void stepUp2() {
+		System.out.println("Hey Man Whats App");
+	}
+
 }

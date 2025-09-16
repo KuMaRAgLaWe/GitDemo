@@ -19,4 +19,8 @@ public class test {
 		System.out.println("Man and woman");
 	}
 
+	@Test
+	public void DEdddF() {
+		System.out.println("Man and woman");
+	}
 }
